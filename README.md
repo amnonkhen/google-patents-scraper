@@ -19,3 +19,6 @@ A simple scraper for the Google patents website I wrote as a freelance project. 
 
   example command line:  
   `python scraper.py --start 234 --end 1872`
+
+
+
